@@ -1,0 +1,5 @@
+vpc_id
+public_subnet_id_a
+public_subnet_id_b
+private_subnet_id_b
+private_subnet_id_b
